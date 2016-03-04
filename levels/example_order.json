@@ -1,0 +1,8 @@
+{
+  "account": "EXB123456",
+  "venue": "TESTEX",
+  "stock": "FOOBAR",
+  "qty": 100,
+  "direction": "buy",
+  "orderType": "market" 
+}
